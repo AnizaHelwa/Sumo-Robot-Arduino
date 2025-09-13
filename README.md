@@ -22,6 +22,7 @@ The robot is designed for **Sumo competitions**, capable of moving with various 
 
 ## 📷 Robot Preview
 ![Robot Sumo](DSC_3283.JPG)  
+![Robot Sumo2](DSC_3285.JPG) 
 
 ## 🎯 Goal
 To design and implement a **Sumo Robot** that is both competitive in the arena and fun to control with a PS4 joystick.
